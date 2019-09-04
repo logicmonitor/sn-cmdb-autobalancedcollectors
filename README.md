@@ -4,4 +4,6 @@ Device assignment to collectors has traditionally been  a 1-to-1 relationship. T
 
 In May 2019 we announced Auto Balanced Collector Groups (ABCG) which streamlines the creation process for devices and allows for simplified capacity management within a group of Collectors.  With the 1.1.x release and this Auto Balanced Collector Group - Update Set it’s now possible to provision devices to Auto Balanced Collector Groups or a specific collector from ServiceNow.
 
-The full documentation for how to install/use this is located here:  <URL TO SUPPORT SITE>
+The full documentation for how to install/use this is located here:
+
+https://www.logicmonitor.com/support/servicenow-cmdb-integration/servicenow-cmdb-update-set-auto-balanced-collector-groups/
